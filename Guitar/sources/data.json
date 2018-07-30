@@ -1,0 +1,116 @@
+{
+  "dict": [
+    {
+      "name": "GBSR-8 FENDER STRATOCASTER",
+      "price": 259,
+      "color": "Black",
+      "weight": "6.3 lbs",
+      "desc": "GRGA120 GIO RGA Series Electric Guitar Black Night. Ibanez builds guitars for all levels of players—from beginners to the most demanding masters of the instrument. Regardless of price, Ibanez always strives to offer the absolute best sound, style, and playability in its class.",
+      "imgsrc": "5.jpg",
+      "seller":"NY Guitar Store",
+      "itemno":126987,
+      "reviews": [
+        {
+          "name": "Shawn Wilson",
+          "comment": "Really good performance. Happy with the purchase."
+        },
+        {
+          "name": "Sarah Brown",
+          "comment": "Poor performance after usage of 3 months."
+        },
+        {
+          "name": "Paul Smith",
+          "comment": "I love to play with swords!"
+        }
+      ]
+    },
+    {
+      "name": "HBR-4 THE SUPER STRAT",
+      "price": 200,
+      "color": "Red - White",
+      "weight": "6 lbs",
+      "desc": "The RG is the most recognizable and distinctive guitar in the Ibanez line. Three decades of metal have forged this high-performance machine, honing it for both speed and strength. Whether you favor a hardtail (fixed) bridge or our industry-leading locking tremolo system, the RG is a precision instrument.",
+      "imgsrc": "1.jpg",
+      "seller":"NYC Musicals",
+      "itemno":123456,
+      "reviews": [
+        {
+          "name": "Steve Patterson",
+          "comment": "Quality was not so great."
+        },
+        {
+          "name": "Katty Harris",
+          "comment": "Poor performance after usage of 3 months."
+        },
+        {
+          "name": "Pam Miller",
+          "comment": "I didn't like it much."
+        }
+      ]
+    },
+    {
+      "name": "F-Series FireStorm X",
+      "price": 329,
+      "color": "Wooden",
+      "weight": "6.5 lbs",
+      "desc": "Taylor’s popular 814ce offers players the ultimate all-purpose guitar. Its balance, warmth and articulation are great for fingerstyle, it has enough punch as a strummer to front a band, and the top-end power will fuel lead runs without getting shrill.",
+      "imgsrc": "2.jpg",
+      "seller":"Brooklyn Musicals",
+      "itemno":103446,
+      "reviews": [
+        {
+          "name": "Robert Patt",
+          "comment": "This is a great guitar."
+        },
+        {
+          "name": "Alexa Blossoms",
+          "comment": "It broke after few times of usage."
+        }
+      ]
+    },
+    {
+      "name": "XBC-5 GIBSON FLYING V",
+      "price": 299,
+      "color": "Orange-Black-Yellow",
+      "weight": "9.5 lbs",
+      "desc": "Premium appointments include maple binding and back strip, rosewood top edge trim, a rosewood pickguard, Taylor’s new Element fretboard inlay in mother-of-pearl, a marbled fretboard, and new Expression System 2 acoustic electronics. The guitar features a Venetian cutaway and includes a Taylor deluxe hardshell case.",
+      "imgsrc": "3.jpg",
+      "seller":"City Instruments",
+      "itemno":985423,
+      "reviews": [
+        {
+          "name": "Betty Miller",
+          "comment": "A Great quality guitar."
+        },
+        {
+          "name": "Matt Davis",
+          "comment": "Liked overall performance."
+        }
+      ]
+    },
+    {
+      "name": "ES-335 PRO Electric Guitar",
+      "price": 239,
+      "color": "Orange-Black-Yellow",
+      "weight": "5.8 lbs",
+      "desc": "Spectrum AIL 36K Student Size 36″ Acoustic Guitar. Natural Matte Finished Linden Top with Mahogany Finished Back & Sides. Features Rosewood Fingerboard, Decorative Sound hole Design & ABS Binding. Color: Natural. 90 Days Labor & 2 Year Parts Warranty. Manual & Instructions Included. Included Accessories: Guitar Bag, Adjustable Strap.",
+      "imgsrc": "4.jpg",
+      "seller":"The Guitar Shop",
+      "itemno":764391,
+      "reviews": [
+        {
+          "name": "Oliver Queen",
+          "comment": "A decent Guitar."
+        },
+        {
+          "name": "Bruce Wayne",
+          "comment": "Its not for professionals. I will have to return it."
+        },
+        {
+          "name": "Joker",
+          "comment": "Good quality."
+        }
+      ]
+    }
+  ]
+}
